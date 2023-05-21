@@ -2,7 +2,7 @@
 
 - 🙎‍♀️ I’m currently working on a Girlfriend Chatbot.
 - 📚 I’m currently learning NLP and PyTorch. 
-- 🏢 Data Scientist at Darktrace.
+- 🏢 Data Scientist at Kantar.
 - 📶 Interested in Data Science and Machine Learning. 
 
 <h3 align="left">Connect with me:</h3>
